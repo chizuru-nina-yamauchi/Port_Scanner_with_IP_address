@@ -24,5 +24,8 @@ python port_scanner.py
 - TCP (Transmission Control Protocol) connections are established to determine whether each port on the target IP address is open or closed.
 - The script utilizes error handling to gracefully handle exceptions such as KeyboardInterrupt and socket errors.
 
+## IDE I used
+- pycharm
+
 ## Disclaimer
 This script is intended for educational purposes only. Do not use it for any malicious activities. Always seek permission before scanning ports on a network or IP address.
